@@ -1,0 +1,15 @@
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.exe
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.deps.json
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.runtimeconfig.json
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.dll
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\bin\Debug\net7.0\Aula03_crud_pessoas.pdb
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.csproj.AssemblyReference.cache
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.AssemblyInfo.cs
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.dll
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\refint\Aula03_crud_pessoas.dll
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.pdb
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\Aula03_crud_pessoas.genruntimeconfig.cache
+C:\Users\Davi\Desktop\POO-2aFeira-main\Aula03_crud_pessoas\obj\Debug\net7.0\ref\Aula03_crud_pessoas.dll
